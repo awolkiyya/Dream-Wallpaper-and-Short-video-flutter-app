@@ -4,8 +4,7 @@ import 'package:get/get.dart';
 import 'package:get/get_connect/http/src/utils/utils.dart';
 
 class Controllerone extends GetxController {
-  RxString ApiKey =
-      "563492ad6f917000010000010f50a22760b64ca3af408d6ae7132723".obs;
+//   to get the api key you can contact me sorry for every thing i am waiting you
   RxInt index = 0.obs;
   List<WallPaperCollectionModel> wallPaperCollectionList = [];
   List<WallPaperModel> wallpapers = []; // the storage of the list of photo
