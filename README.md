@@ -11,5 +11,9 @@
  
 # the full sample image of the application
 <div style:{width:1200px,position:flex,flex-direction:row,justify-content:center}>
+   <h5>photo page sample </h5>
    <img src="assets/sample/s5.png" width="200px">
+   <h5>single selected  photo sample </h5>
+   <img src="  assets/sample/s91.png" width="200px">
+ 
 </div>
