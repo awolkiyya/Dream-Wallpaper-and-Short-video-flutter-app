@@ -22,7 +22,10 @@
    <h5>Video page display sample </h5>
    <img src=" assets/sample/s17.png" width="200px">
 </div>
+
 # to get more information you  can contact me using the following email address or phone number
- email -> awolabdulbaasit143@gmail.com
+<br/>
+ <a href="mailto::awolabdulbaasit143@gmail.com">email -> awolabdulbaasit143@gmail.com</a> 
+ <br/>
  phone -> +251911996750 
  thank's for every thing 
