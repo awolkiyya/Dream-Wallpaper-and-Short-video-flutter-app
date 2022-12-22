@@ -15,5 +15,14 @@
    <img src="assets/sample/s5.png" width="200px">
    <h5>single selected  photo sample </h5>
    <img src="  assets/sample/s91.png" width="200px">
- 
+   <h5>list of image in collection </h5>
+   <img src="assets/sample/s9.png" width="200px">
+   <h5>Video page sample </h5>
+   <img src=" assets/sample/s11.png" width="200px">
+   <h5>Video page display sample </h5>
+   <img src=" assets/sample/s17.png" width="200px">
 </div>
+# to get more information you  can contact me using the following email address or phone number
+ email -> awolabdulbaasit143@gmail.com
+ phone -> +251911996750 
+ thank's for every thing 
