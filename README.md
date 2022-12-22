@@ -10,7 +10,7 @@
   ####  -> and used flutter package from pubdev  to integrete in to the project
  
 # the full sample image of the application
-<div style:{width:1200px,position:flex,flex-direction:row,justify-content:center}>
+<div style:{width:1200px,position:flex,flex-direction:row}>
          <h1>image</h1>
            <h1>image</h1>
              <h1>image</h1>
