@@ -1,7 +1,6 @@
 # Project Name
     ## Dream Wallpaper and Short Video Flutter Based Cross Platform Application
-
-A new Flutter project.
+ this application can be help you to make your every day life easy and used every day new unlimeted Wallpaper photo for your mobile ,your computer and you can used any type of image you like for your other social media by search and download,you can also  used this app to view many short video every time released by simple search on your app
 
 ## Getting Started
 
